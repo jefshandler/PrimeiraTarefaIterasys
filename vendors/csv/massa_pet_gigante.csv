@@ -1,0 +1,6 @@
+peso_pet, peso_racao, resultado_esperado
+45, 45, 2025
+90, 45, 4050
+91, 45, 4095
+44, 45, 1980
+0, 45, 0
